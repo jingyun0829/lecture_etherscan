@@ -1,0 +1,7 @@
+scrape_time,scrape_time_year,scrape_time_month,scrape_time_day,low_gas,avg_gas,high_gas,first_wallet,first_gas_value_usd,first_gas_value_eth,Second_wallet,Second_gas_value_usd,Second_gas_value_eth,Third_wallet,Third_gas_value_usd,Third_gas_value_eth
+20230928114620,2023,9,8,17,17,19,Uniswap: Universal Router,38063.61,23.17,Uniswap V2: Router 2,45993.22,28.00,Tether: USDT Stablecoin,26286.63,16.00
+20231002210803,2023,0,2,7,8,9,Uniswap: Universal Router,36899.71,22.21,Uniswap V2: Router 2,70526.98,42.45,Banana Gun: Router,34714.72,20.90
+20231002210904,2023,0,2,7,8,10,Uniswap: Universal Router,36901.75,22.21,Uniswap V2: Router 2,70530.88,42.45,Banana Gun: Router,34716.64,20.90
+20230928114822,2023,9,8,16,17,18,Uniswap: Universal Router,38045.26,23.17,Uniswap V2: Router 2,45971.05,28.00,Tether: USDT Stablecoin,26273.96,16.00
+20231002210703,2023,0,2,8,9,10,Uniswap: Universal Router,36907.31,22.21,Uniswap V2: Router 2,70541.49,42.45,Banana Gun: Router,34721.86,20.90
+20230928114721,2023,9,8,17,17,20,Uniswap: Universal Router,38046.95,23.17,Uniswap V2: Router 2,45973.09,28.00,Tether: USDT Stablecoin,26275.13,16.00
